@@ -1,0 +1,2 @@
+The RTL activity will make ckan display rtl
+Extra setup: set local=he ( to display hebrew)
