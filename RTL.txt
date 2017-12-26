@@ -1,3 +1,4 @@
 The RTL activity will make ckan display rtl
 Extra setup: set local=he ( to display hebrew)
+  ckan.locale_default = he
 The new base.html is : ckanext-example_theme/ckanext/example_theme/templates/base.html
